@@ -1,0 +1,28 @@
+syntax = "proto3";  // 版本声明
+package qa; // 包名，包名可以避免对message类型之间的名字冲突，同名的message可以通过package进行区分
+option go_package = "/proto"; // 生成的go文件的package名（基于一定规则生成）
+
+
+message QcreateReq{
+  string UserName = 1;
+  string Message =2;
+}
+message QcreateResp{
+  bool OK=1;
+  uint32 QuestionID=2;
+}
+message AcreateReq{
+  string UserName=1;
+  uint32 QuestionID=2;
+  string Message=3;
+}
+message AcreateResp{
+  bool OK=1;
+}
+
+service CreateQuestion{
+  rpc CreateQuestion(QcreateReq) returns (QcreateResp);
+}
+service CreateAnswer{
+  rpc CreateAnswer(AcreateReq) returns (AcreateResp);
+}

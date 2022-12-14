@@ -1,0 +1,263 @@
+[2022-12-12 18:22:40.523]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 18:22:41.433]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:33	initialize mysql successfully!
+[2022-12-12 18:22:41.661]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:52	initialize redis client successfully!
+[2022-12-12 18:33:19.077]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 18:33:19.830]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:33	initialize mysql successfully!
+[2022-12-12 18:33:19.941]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:52	initialize redis client successfully!
+[2022-12-12 18:44:53.033]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 18:44:53.180]	[31mFATAL[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:19	initialize mysql failed.	{"error": "Error 1045: Access denied for user 'CSAdemo'@'180.88.218.42' (using password: YES)"}
+[2022-12-12 18:47:23.353]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 18:47:23.500]	[31mFATAL[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:19	initialize mysql failed.	{"error": "Error 1045: Access denied for user 'csademo'@'180.88.218.42' (using password: YES)"}
+[2022-12-12 18:52:20.236]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 18:52:21.430]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 18:52:21.542]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 19:04:14.198]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 19:04:16.407]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 19:04:16.586]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 19:10:23.839]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 19:10:26.119]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 19:10:26.233]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 19:24:51.537]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 19:24:53.764]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 19:24:53.878]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 19:35:36.044]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 19:35:42.867]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 19:35:43.047]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 19:39:30.628]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 19:39:32.966]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 19:39:33.078]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 19:42:08.346]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 19:42:10.634]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 19:42:10.743]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 19:44:11.992]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 19:44:14.385]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 19:44:14.501]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 19:48:18.931]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 19:48:21.306]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 19:48:21.417]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 19:51:12.035]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 19:51:14.358]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 19:51:14.470]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 19:51:50.889]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 19:51:53.199]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 19:51:53.309]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 20:01:21.173]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 20:01:23.466]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 20:01:23.574]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 20:56:46.080]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 20:56:48.787]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 20:56:48.971]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 21:06:49.731]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 21:06:52.129]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 21:06:52.244]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 21:19:03.896]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 21:19:06.182]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 21:19:06.295]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 21:40:25.239]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 21:40:27.555]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 21:40:27.734]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-12 21:44:29.564]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-12 21:44:31.976]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-12 21:44:32.092]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:09:49.029]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:09:51.375]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:09:51.565]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:13:12.315]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:13:14.632]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:13:14.743]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:16:36.981]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:16:39.778]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:16:39.894]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:24:38.525]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:24:40.822]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:24:40.932]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:30:34.314]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:30:36.673]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:30:36.792]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:34:29.405]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:34:31.744]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:34:31.857]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:40:45.467]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:40:47.847]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:40:47.964]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:43:11.886]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:43:14.162]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:43:14.272]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:47:55.184]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:47:57.592]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:47:57.784]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:48:14.092]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:48:16.406]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:48:16.519]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:49:27.947]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:49:30.294]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:49:30.408]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:59:08.917]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:59:11.153]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:59:11.263]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 22:59:49.860]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 22:59:52.138]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 22:59:52.251]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:03:50.883]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:03:53.160]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:03:53.269]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:07:51.333]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:07:53.641]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:07:53.760]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:12:44.002]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:12:46.471]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:12:46.579]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:14:16.073]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:14:17.570]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:14:17.687]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:21:24.670]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:21:27.001]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:21:27.191]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:22:43.612]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:22:45.846]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:22:45.987]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:23:37.296]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:23:39.548]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:23:39.660]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:25:13.631]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:25:15.882]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:25:15.991]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:29:18.964]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:29:21.260]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:29:21.375]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:33:19.838]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:33:22.127]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:33:22.243]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:34:14.130]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:34:16.415]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:34:16.526]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:38:26.541]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:38:28.875]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:38:28.992]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-13 23:41:09.069]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-13 23:41:10.515]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-13 23:41:10.629]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 21:49:32.202]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 21:49:34.582]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 21:49:34.792]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 21:52:10.641]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 21:52:12.957]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 21:52:13.072]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 21:54:34.969]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 21:54:37.354]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 21:54:37.472]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 21:55:16.906]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 21:55:19.230]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 21:55:19.343]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 21:56:27.329]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 21:56:29.709]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 21:56:29.819]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 22:15:18.105]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 22:15:20.412]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 22:15:20.527]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 22:44:31.929]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 22:44:34.359]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 22:44:34.578]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 22:56:45.620]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 22:56:47.868]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 22:56:47.983]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 22:59:13.024]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 22:59:15.290]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 22:59:15.407]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:00:47.124]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:00:49.448]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:00:49.562]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:02:14.798]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:02:17.074]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:02:17.184]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:03:40.610]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:03:43.017]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:03:43.128]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:04:50.631]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:04:52.979]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:04:53.087]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:11:12.276]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:11:14.580]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:11:14.690]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:15:50.292]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:15:52.774]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:15:52.884]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:26:11.374]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:26:13.776]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:26:13.978]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:29:40.944]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:29:43.239]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:29:43.350]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:39:28.403]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:39:30.741]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:39:30.855]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:44:32.764]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:44:35.030]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:44:35.142]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:48:56.948]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:48:59.235]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:48:59.350]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-14 23:49:21.622]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-14 23:49:23.954]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-14 23:49:24.065]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:01:43.415]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:01:44.891]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:01:45.098]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:02:53.482]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:02:55.804]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:02:55.916]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:06:45.048]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:06:46.528]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:06:46.639]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:10:01.757]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:10:04.041]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:10:04.152]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:10:28.374]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:10:30.670]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:10:30.785]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:15:38.085]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:15:41.403]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:15:41.567]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:15:52.680]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:15:56.122]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:15:56.287]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:16:53.017]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:17:07.834]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:17:11.226]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:17:11.390]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:18:57.811]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:19:01.221]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:19:01.385]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:20:50.161]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:20:53.517]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:20:53.681]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:23:27.488]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:23:29.611]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:23:29.773]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:26:06.845]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:26:08.902]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:26:09.069]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:28:57.720]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:29:01.275]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:29:01.435]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 00:30:17.413]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 00:30:20.712]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 00:30:20.875]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 01:27:48.040]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 01:27:51.388]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 01:27:51.553]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 01:33:10.503]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 01:33:13.978]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 01:33:14.228]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 01:40:08.086]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 01:40:12.417]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 01:40:12.579]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 01:48:06.330]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 01:48:09.706]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 01:48:09.869]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 01:48:47.987]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 01:48:51.319]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 01:48:51.482]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
+[2022-12-15 02:19:56.609]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/logger.go:51	initialize logger successfully!
+[2022-12-15 02:20:00.006]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:32	initialize mysql successfully!
+[2022-12-15 02:20:00.261]	[34mINFO[0m	C:/Users/Ambrose/GolandProjects/CSAwork/boot/database.go:51	initialize redis client successfully!
