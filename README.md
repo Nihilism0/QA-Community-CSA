@@ -56,7 +56,7 @@ Hi,there!👋
 JWT使用请求头Authorization ===> Bearer `token` 
 
 - **注册/登录**
-- 
+
 | 参数名   | 参数值 |
 | -------- | ------ |
 | username | xxx    |
