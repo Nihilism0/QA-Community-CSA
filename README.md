@@ -52,7 +52,7 @@ Hi,there!👋
 
 还有**Viper,Logger**等小工具...
 ## 🍟调试参数
-JWT使用请求头Authorization ===> Bearer `token`
+JWT使用请求头Authorization ===> Bearer `token` 
 - **注册/登录**
 | 参数名   | 参数值 |
 | -------- | ------ |
